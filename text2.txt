@@ -1,1 +1,1 @@
-Text from server
+Text from client
